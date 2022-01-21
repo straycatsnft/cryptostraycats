@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8E981E4f36D915eE73Dc96C209C612b9DEc51b95",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x8e981e4f36d915ee73dc96c209c612b9dec51b95",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoStrayCats",
+  "SYMBOL": "CSCNFT",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptostraycats",
+  "SHOW_BACKGROUND": true
+}
